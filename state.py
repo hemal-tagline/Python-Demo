@@ -1,4 +1,4 @@
-from country import GetAPIUrl, fileCheck, saveFile
+from country import GetAPIUrl, fileCheck
 import json
 import argparse
 parsers = argparse.ArgumentParser()
